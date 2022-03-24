@@ -1,0 +1,28 @@
+.container {
+  background-color: grey;
+  width: 700px;
+  height: 300px;
+}
+.text1 {
+  position: relative;
+  left: 45px;
+  top: 20px;
+  margin-top: 10px;
+  text-align: center;
+  color: gray;
+  background-color: black;
+  width: 600px;
+  height: 100px;
+  border-radius: 10px;
+}
+
+.text2 {
+  position: relative;
+  left: 45px;
+  top: 20px;
+  color: gray;
+  background-color: black;
+  width: 600px;
+  height: 100px;
+  overflow: auto;
+}
